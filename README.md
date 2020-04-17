@@ -3,7 +3,7 @@ aprendizaje git
 ## Introduccion
 
 '''php
-<? php 
+<?php 
   phpinfo(); 
 ?>
 '''
